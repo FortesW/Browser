@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: gray;
+}
+#pole{
+    border-radius: 10%;
+}
+#poisk{
+    border:none;
+    background-color: white;
+}
+#browse{
+    text-align: right;
+    color: white;
+}
